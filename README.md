@@ -2,6 +2,8 @@
 
 This README contains instructions on how to use the frontend part of the BTC price prediction project.
 
+[Project URL](https://d386ooxqoh3yz8.cloudfront.net).
+
 ## Tech stack
 
 The project was created using **Vite, React, Typescript, Tailwind, and Axios**.
@@ -20,7 +22,7 @@ At the bottom of the page, you will see your current score, updated whenever you
 
 There are two ways to run this system:
 
-1. Access the already deployed and ready-to-go app at the following URL: 
+1. Access the already deployed and ready-to-go app at [this URL](https://d386ooxqoh3yz8.cloudfront.net).
 2. Run the project locally in development mode and connect it to your own deployed backend, or use the already deployed backend endpoints (see the **Setup** section for more details).
 
 ### Architecture
