@@ -43,12 +43,12 @@ The app follows the atomic architecture principles, being split into several typ
 
 ## Future Plans
 
-The biggest constraint in developing this app was time. Therefore, there are many improvements that could be added gradually. Here are a couple of ways this project could be improved:
+The biggest constraint in developing this app was time. Therefore, there are many improvements that could be added gradually. I will highlight a couple of ways how this project could be improved:
 
-1. **Testing**: Use Jest to create unit tests for the utils functions and the functional components to improve project robustness.
-2. **Better State Management**: Implement a state management library (such as Redux) to ensure seamless state passing between components and avoid prop drilling.
-3. **Improved Design**: Enhance the design using Tailwind or other tools to boost usability.
-4. **Automated Build and Deployment**: Utilize git actions to build and redeploy the project programmatically.
+1. **Testing**: Jest can be used to create unit tests for the utils functions and the functional components. This could improve the robustness of the project, and ensure that no edge cases have been missed.
+2. **Better State Management**: In places this project might fall into the pitfall of prop drilling. This could be solved by using a state management library (such as Redux), to ensure that state is passed seamlessly between components and that best practices are followed.
+3. **Improved Design**: Tailwind was used to create a streamlined design for the app, but it is quite rudimentary. An improved design would bring a noticeable usability boost.
+4. **Automated Build and Deployment**: Git actions could be used to build and redeploy the project programatically..
 
 ## Backend
 
