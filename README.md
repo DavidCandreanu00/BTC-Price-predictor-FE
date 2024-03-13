@@ -2,7 +2,7 @@
 
 This README contains instructions on how to use the frontend part of the BTC price prediction project.
 
-[Project URL](https://d386ooxqoh3yz8.cloudfront.net).
+[App URL](https://d386ooxqoh3yz8.cloudfront.net).
 
 ## Tech stack
 
@@ -16,7 +16,7 @@ Below you will see the real-time BTC price and can make a prediction. Once you m
 
 At the bottom of the page, you will see your current score, updated whenever your prediction is resolved. You gain one point for a correct prediction and lose a point for an incorrect one.
 
-![Alt text](image.png)
+![screenshot](image.png)
 
 ### Usage testing
 
